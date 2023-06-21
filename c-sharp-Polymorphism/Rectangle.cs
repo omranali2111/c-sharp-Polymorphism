@@ -10,6 +10,7 @@ namespace c_sharp_Polymorphism
     {
         double Width;
         double Height;
+        
 
         public Rectangle() { }
 
@@ -18,13 +19,14 @@ namespace c_sharp_Polymorphism
             Width = width;
             Height = height;
 
-            Console.WriteLine($"the Area of rectangle is:{CalculateArea()}");
+           
            
         }
 
         public override double CalculateArea()
         {
             return (Width * Height);
+           
         }
 
        

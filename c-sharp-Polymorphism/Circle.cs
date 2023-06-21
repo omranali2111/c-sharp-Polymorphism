@@ -14,13 +14,14 @@ namespace c_sharp_Polymorphism
         {
             this.Radius = Radius;
 
-            Console.WriteLine($"the Area of circle is:{CalculateArea()}");
+           
            
         }
 
         public override double CalculateArea()
         {
-            return (Math.PI * Radius * Radius);
+          return (Math.PI * this.Radius * this.Radius);
+            
         }
 
        
