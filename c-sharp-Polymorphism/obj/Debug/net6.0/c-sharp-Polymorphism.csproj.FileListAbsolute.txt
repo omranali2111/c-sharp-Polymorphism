@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\bin\Debug\net6.0\c-sharp-Polymorphism.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\bin\Debug\net6.0\c-sharp-Polymorphism.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\bin\Debug\net6.0\c-sharp-Polymorphism.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\bin\Debug\net6.0\c-sharp-Polymorphism.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\bin\Debug\net6.0\c-sharp-Polymorphism.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\c-sharp-Polymorphism.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\c-sharp-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\c-sharp-Polymorphism.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\c-sharp-Polymorphism.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\c-sharp-Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\c-sharp-Polymorphism.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\refint\c-sharp-Polymorphism.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\c-sharp-Polymorphism.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\c-sharp-Polymorphism.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Polymorphism\c-sharp-Polymorphism\obj\Debug\net6.0\ref\c-sharp-Polymorphism.dll
